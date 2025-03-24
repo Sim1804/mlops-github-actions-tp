@@ -21,4 +21,4 @@ jobs:
              repo: context.repo.repo,
              body: '👋 Thanks for the PR! The automated tests will
 run shortly.'
-           })
+            })

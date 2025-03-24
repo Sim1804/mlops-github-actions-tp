@@ -19,6 +19,5 @@ jobs:
              issue_number: context.issue.number,
              owner: context.repo.owner,
              repo: context.repo.repo,
-             body: '👋 Thanks for the PR! The automated tests will
-run shortly.'
+             body: '👋 Thanks for the PR! The automated tests will run shortly.'
             })
